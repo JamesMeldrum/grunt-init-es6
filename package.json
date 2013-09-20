@@ -1,0 +1,22 @@
+{
+  "name": "grunt-init-es6",
+  "version": "0.0.1",
+  "description": "Start a project, authored in ES6, transpiling to AMD, RJS and Browser specs.",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/JamesMeldrum/grunt-init-es6.git"
+  },
+  "keywords": [
+    "es6",
+    "grunt",
+    "grunt init",
+    "grunt-init",
+    "grunt-init-",
+    "grunt-init-es6"
+  ],
+  "author": "James Meldrum",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/JamesMeldrum/grunt-init-es6/issues"
+  }
+}
