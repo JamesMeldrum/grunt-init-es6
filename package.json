@@ -1,6 +1,6 @@
 {
   "name": "grunt-init-es6",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Start a project, authored in ES6, transpiling to AMD, RJS and Browser specs.",
   "repository": {
     "type": "git",
