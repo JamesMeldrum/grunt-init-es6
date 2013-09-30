@@ -64,7 +64,7 @@ module.exports = function(grunt) {
     concat: {
       amd: {
         src: "tmp/**/*.amd.js",
-        dest: "dist/{%= name %}.amd.js"
+        dest: "media/js/amd/{%= name %}.amd.js"
       },
     },
     browser: {

@@ -8,6 +8,8 @@
 
 'use strict';
 
-exports.awesome = function() {
-  return 'awesome';
-};
+import { a } from "./{%= name %}/a";
+
+a.toString();
+ 
+export { a };
